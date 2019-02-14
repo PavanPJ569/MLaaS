@@ -1,0 +1,4 @@
+flask
+NumPy
+SciPy 
+sklearn
